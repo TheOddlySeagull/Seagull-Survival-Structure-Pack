@@ -35,6 +35,7 @@ Here are all the Collections:
 - `Maren Collection`
 - `Minoaka Collection`
 - `Silkosia Collection`
+- `Besieged Collection`
 
 *Even though Minokoa and Silkosia only have residences, Maren has a lot more, including cosmetics, a Town hall, an Inn, and more.*  
 
