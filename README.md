@@ -115,4 +115,4 @@ This pack is licensed under the [Creative Commons Attribution-NonCommercial-Shar
 ## Contact
 <br>
 
-You can contact me on Discord: TheOddlySeagull#2000
+You can contact me on Discord: TheOddlySeagull
