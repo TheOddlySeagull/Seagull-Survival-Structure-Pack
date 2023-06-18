@@ -1,5 +1,5 @@
 # Ancient Warfare Structure Template File
-# Auto-generated structure template file. created on: 6/17/2023 at: 22:57:7
+# Auto-generated structure template file. created on: 6/18/2023 at: 11:14:44
 # Lines beginning with # denote comments
 
 header:
@@ -7,7 +7,7 @@ version=2.11
 name=SB_ArdminRoad_curve90L_1
 mods=minefantasyreeforged
 size=19,2,19
-offset=15,2,18
+offset=15,2,19
 :endheader
 
 #### VALIDATION ####
