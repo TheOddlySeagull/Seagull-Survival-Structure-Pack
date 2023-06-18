@@ -90,6 +90,21 @@ Let's break it down:
 - `Bastion` is the wall's type. It can be anything, such as `Bastion`, `Gate`, `Tower`, `Stairs`, `Ramp`, `Roof`, etc.
 - `oak` is the wood variant. It can be vanilla wood or modded wood.
 
+### Roads
+
+Here are examples: `SB_ArdminRoad_Tjunction_1`, `SB_ArdminRoad_double_lifted_1`, `SB_ArdminRoad_bridge_10t15s_1`.
+Let's break it down:
+
+- `SB_` is the prefix. It's the same for all structures.
+- `ArdminRoad` is the style name. In this case, it's the Ardmin Road style.
+- `Tjunction` is the shape of the road. It could be `Straight`, `Tjunction`, `Xjunction`, `stair`... Usually, it's omitted if the road is straight. Sometimes, if the road is based of a reapeted pattern, it can be called `Double`, `Triple`, `Quadruple`, etc. In those cases, it is always straight.
+- `lifted` is a variant of the road. It is usually the same road, but lifted by 3 or 4 blocks, it's usually used for unequal terrain.
+- `bridge` is a variant of the road. It comes with more info.
+- `10t15s` is only for bridges, it means that the road is 10 block high from the ground, and the bridge segment has a 15 blocks span between the two pillars.
+- `1` is here to allow for multiple roads with similar styles.
+
+
+
 ### Unspecific Structures
 
 Some structures aren't part of a collection or a specific category.  
