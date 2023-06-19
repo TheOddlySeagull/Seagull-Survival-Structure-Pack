@@ -5,7 +5,7 @@
 header:
 version=2.11
 name=SB_ArdminRoad_double_lifted_1
-mods=minefantasyreeforged
+mods=minefantasyreforged
 size=9,6,9
 offset=4,5,9
 :endheader

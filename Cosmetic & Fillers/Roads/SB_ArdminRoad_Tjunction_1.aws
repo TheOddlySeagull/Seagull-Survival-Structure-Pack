@@ -5,7 +5,7 @@
 header:
 version=2.11
 name=SB_ArdminRoad_Tjunction_1
-mods=minefantasyreeforged
+mods=minefantasyreforged
 size=21,2,14
 offset=10,2,14
 :endheader

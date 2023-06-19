@@ -5,7 +5,7 @@
 header:
 version=2.11
 name=SB_ArdminRoad_bridge_10t15s_1
-mods=minefantasyreeforged
+mods=minefantasyreforged
 size=11,12,21
 offset=5,10,21
 :endheader
