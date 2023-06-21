@@ -37,7 +37,7 @@ Here are all the Collections:
 - `Silkosia Collection`
 - `Besieged Collection`
 
-*Minoaka and Silkosia only have residences, Maren is the most complete with a lot more, including cosmetics, a Town hall, an Inn, a farm, and more.*  
+*Minoaka and Silkosia only have residences, Besieged has many siege camp related structures like fort, tents, siege towers and a few others. Maren is the most complete with a lot more, including cosmetics, a Town hall, an Inn, a farm, and more.*  
 
 Here are all the Categories:  
 
