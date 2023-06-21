@@ -112,7 +112,7 @@ They are usually simply called `SB_` followed by the structure's name, maybe a f
 Here are examples: 
 - `SB_kennel_medium_ironwood`
 - `SB_brewery_house_spruce`
-- `SB_SB_warehouse_large_oak`
+- `SB_warehouse_large_oak`
 
 <br>
 
