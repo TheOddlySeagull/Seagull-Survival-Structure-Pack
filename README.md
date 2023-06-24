@@ -1,7 +1,7 @@
 
 # Seagull's Survival Build Pack for Ancient Warfare 2
 
-This is a structure pack for Ancient Warfare 2 that adds a bunch of new buildings for your NPCs to build.
+This is a structure pack for Ancient Warfare 2 minecraft mod, adding a bunch of new buildings for your NPCs to build.
 
 <br>
 
@@ -26,7 +26,7 @@ They follow a simple naming convention: they all start with `SB_`.
 ## Content
 <br>
 
-This pack currently contains roughly 2000 structures!  
+This pack currently contains over 2000 structures!  
 If we ignore all the wood variants, there are around 200 unique structures.  
 <br>
 The structures are organized in Collections and Categories.  
@@ -37,13 +37,13 @@ Here are all the Collections:
 - `Silkosia Collection`
 - `Besieged Collection`
 
-*Even though Minoaka and Silkosia only have residences, Maren has a lot more, including cosmetics, a Town hall, an Inn, and more.*  
+*Minoaka and Silkosia only have residences, Besieged has many siege camp related structures like fort, tents, siege towers and a few others. Maren is the most complete with a lot more, including cosmetics, a Town hall, an Inn, a farm, and more.*  
 
 Here are all the Categories:  
 
-- `Cosmetic and Fillers` has structures such as Roads or Kennels.
-- `Defences` has structures such as Walls, Moats, Towers, Barracks, Siege camps, and more.
-- `Keeps` has a collection of different tieres of Keeps.
+- `Cosmetic and Fillers` has structures such as Roads and random utility structures like kennels.
+- `Defences` has structures such as Walls, Moats, or guard Towers.
+- `Keeps` has a collection of different levels of Keeps.
 
 You will also find a `Collectionless` category, which contains all the structures that don't yet belong to a collection. This will be fixed in the future.  
 
@@ -112,7 +112,7 @@ They are usually simply called `SB_` followed by the structure's name, maybe a f
 Here are examples: 
 - `SB_kennel_medium_ironwood`
 - `SB_brewery_house_spruce`
-- `SB_SB_warehouse_large_oak`
+- `SB_warehouse_large_oak`
 
 <br>
 
