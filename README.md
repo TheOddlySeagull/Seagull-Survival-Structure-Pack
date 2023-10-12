@@ -128,7 +128,8 @@ This pack is licensed under the [Creative Commons Attribution-NonCommercial-Shar
 
 ---
 
-## Contact
-<br>
+## Author Info
 
-You can contact me on Discord: TheOddlySeagull
+- Discord - [TheOddlySeagull](https://discordapp.com/users/374911928428134400)
+- GitHub - [TheOddlySeagull](https://github.com/TheOddlySeagull)
+
