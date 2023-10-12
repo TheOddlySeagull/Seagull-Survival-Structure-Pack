@@ -122,9 +122,8 @@ If the structure name doesn't follow any of the above conventions, it will be re
 ---
 
 ## License
-<br>
 
-This pack is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
 ---
 
