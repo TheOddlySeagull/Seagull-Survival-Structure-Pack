@@ -122,12 +122,6 @@ If the structure name doesn't follow any of the above conventions, it will be re
 
 ---
 
-## License
-
-[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
-
----
-
 ## Author Info
 
 - Discord - [TheOddlySeagull](https://discordapp.com/users/374911928428134400)
